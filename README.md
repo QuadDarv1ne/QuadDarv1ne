@@ -13,26 +13,17 @@ You can click the Preview link to take a look at your changes.
 
 
 [<img alight="left" alt="Flaticon" width="70px" src="https://cdn-icons-png.flaticon.com/512/6133/6133432.png">][flaticon]
-
 [<img alight="left" alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCX9nGW7TMpMMYR9TND7JADA?style=social">][youtube]
-
-[<img alight="left" alt="Chrome" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png">][chrome]
-[<img alight="left" alt="Boostrap" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">][boostrap]
-[<img alight="left" alt="Python" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">][python]
-[<img alight="left" alt="Windows" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png">][windows]
-
-[<img alight="left" alt="Android" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">][android]
-
-[<img alight="left" alt="AndroidSDK" width="46px" src="https://www.gstatic.com/devrel-devsite/prod/v0009e14c1212eb34a833a614ba55cbefddb8efdabe01fcac037dbc181c8c3153/android/images/lockup.svg">][androidSDK]
-
-
-[<img alight="left" alt="Atom" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png">][Atom]
-
-[<img alight="left" alt="C" width="46px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png">][C]
-
-[<img alight="left" alt="C#" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">][C#]
-
-[<img alight="left" alt="CSS" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">][CSS]
+[<img alight="" alt="Chrome" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png">][chrome]
+[<img alight="" alt="Boostrap" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">][boostrap]
+[<img alight="" alt="Python" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">][python]
+[<img alight="" alt="Windows" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png">][windows]
+[<img alight="" alt="Android" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">][android]
+[<img alight="" alt="AndroidSDK" width="46px" src="https://www.gstatic.com/devrel-devsite/prod/v0009e14c1212eb34a833a614ba55cbefddb8efdabe01fcac037dbc181c8c3153/android/images/lockup.svg">][androidSDK]
+[<img alight="" alt="Atom" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png">][Atom]
+[<img alight="" alt="C" width="46px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png">][C]
+[<img alight="" alt="C#" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">][C#]
+[<img alight="" alt="CSS" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">][CSS]
 
 [<img alight="left" alt=".NET" width="46px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png">][.NET]
 
