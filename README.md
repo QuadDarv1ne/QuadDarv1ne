@@ -12,6 +12,8 @@ You can click the Preview link to take a look at your changes.
 📖 ⓂⒶⓍⒾⓂ ⒹⓊⓅⓁⒺⓎ 2022
 
 
+[<img alight="left" alt="Flaticon" width="28px" src="https://cdn-icons-png.flaticon.com/512/6133/6133432.png">][flaticon]
+
 [<img alight="left" alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCX9nGW7TMpMMYR9TND7JADA?style=social">][youtube]
 
 [<img alight="left" alt="Chrome" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png">][chrome]
