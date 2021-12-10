@@ -23,6 +23,9 @@ You can click the Preview link to take a look at your changes.
 
 [<img alight="left" alt="Android" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">][android]
 
+[<img alight="left" alt="AndroidSDK" width="46px" src="https://www.gstatic.com/devrel-devsite/prod/v0009e14c1212eb34a833a614ba55cbefddb8efdabe01fcac037dbc181c8c3153/android/images/lockup.svg">][androidSDK]
+
+
 [<img alight="left" alt="Atom" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png">][Atom]
 
 [<img alight="left" alt="C" width="46px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png">][C]
@@ -81,3 +84,8 @@ https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3
 [linkedin]: https://ru.linkedin.com/in/maxim-dupley-06a2b6220
 [python]: https://www.python.org/
 [windows]: https://www.microsoft.com/ru-ru/windows/windows-11?r=1
+[chrome]: https://www.google.com/intl/ru_ru/chrome/
+[boostrap]: https://getbootstrap.com/
+[javascript]: https://learn.javascript.ru/
+[android]: 
+[androidSDK]: https://developer.android.com/studio
