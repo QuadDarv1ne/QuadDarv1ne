@@ -47,9 +47,14 @@ https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd
 https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png - React Native
 https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/reactiveui/reactiveui.png - ReactiveUI
 https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png - Sass
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png - Swift
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png - Telegram
-https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png - Terminal
+
+
+[<img alight="left" alt="Swift" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png">][Swift]
+
+[<img alight="left" alt="Telegram" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png">][Telegram]
+
+[<img alight="left" alt="Terminal" width="46px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png">][Terminal]
+
 
 [<img alight="left" alt="twitter" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png">][twitter]
 
@@ -105,9 +110,9 @@ https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c
 [Vue.js]: https://vuejs.org/
 [WebPack]: https://webpack.js.org/
 [Wordpress]: https://ru.wordpress.org/
-[]: 
-[]: 
-[]: 
+[Swift]: https://www.apple.com/ru/swift/
+[Telegram]: https://web.telegram.org/z/
+[Terminal]: https://ru.hexlet.io/courses/cli-basics/lessons/command-line/theory_unit : https://timeweb.com/ru/community/articles/komandy-linux
 []: 
 
 [freepik]: https://www.freepik.com/home
