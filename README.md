@@ -112,7 +112,7 @@ https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3
 [Wordpress]: https://ru.wordpress.org/
 [Swift]: https://www.apple.com/ru/swift/
 [Telegram]: https://web.telegram.org/z/
-[Terminal]: https://ru.hexlet.io/courses/cli-basics/lessons/command-line/theory_unit : https://timeweb.com/ru/community/articles/komandy-linux
+[Terminal]: https://www.microsoft.com/ru-ru/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab
 []: 
 
 [freepik]: https://www.freepik.com/home
