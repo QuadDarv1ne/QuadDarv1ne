@@ -53,14 +53,6 @@ https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c
 
 [<img alight="left" alt="twitter" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png">][twitter]
 
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png - Ubuntu
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png - Unity
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png - UnrealEngine
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png - Vue.js
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png - WebPack
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png - Wordpress
-
-
 [<img alight="middle" width="46px" alt="Ubuntu" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png">][Ubuntu]
 
 [<img alight="middle" width="46px" alt="Unity" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png">][Unity]
@@ -107,12 +99,12 @@ https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3
 [C]: https://ru.wikipedia.org/wiki/%D0%A1%D0%B8_(%D1%8F%D0%B7%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F) 
 [C#]: https://docs.microsoft.com/ru-ru/dotnet/csharp/
 [VK]: https://vk.com/maestro7it
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
-[]: 
+[Ubuntu]: https://ubuntu.com/
+[Unity]: https://unity.com/ru
+[UnrealEngine]: https://www.unrealengine.com/en-US/
+[Vue.js]: https://vuejs.org/
+[WebPack]: https://webpack.js.org/
+[Wordpress]: https://ru.wordpress.org/
 []: 
 []: 
 []: 
