@@ -68,7 +68,7 @@ https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3
 
 
 
-[<img alight="center" alt="freepik" src="https://image.freepik.com/free-vector/gradient-new-year-landing-page-template_52683-77290.jpg">][freepik]
+[<img alt="freepik" src="https://image.freepik.com/free-vector/gradient-new-year-landing-page-template_52683-77290.jpg">][freepik]
 
 [twitter]: https://twitter.com/maksimdupley
 [youtube]: https://www.youtube.com/channel/UCX9nGW7TMpMMYR9TND7JADA?sub_confirmation=1
