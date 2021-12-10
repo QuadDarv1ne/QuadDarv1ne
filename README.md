@@ -80,3 +80,4 @@ https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3
 [vimeo]: https://vimeo.com/user132649611
 [linkedin]: https://ru.linkedin.com/in/maxim-dupley-06a2b6220
 [python]: https://www.python.org/
+[windows]: https://www.microsoft.com/ru-ru/windows/windows-11?r=1
