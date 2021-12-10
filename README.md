@@ -52,15 +52,6 @@ You can click the Preview link to take a look at your changes.
 
 [<img alight="left" alt="jQuery" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png">][jQuery]
 
-
- - ESLint
- - Ethereum
- - Firefox
- - Firebase
- - Git
- - HTML5
- - JavaScript
- - jQuery
 https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png - Jupyter Notebook
 https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png - Kotlin
 https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png - Kubernetes
@@ -114,8 +105,9 @@ https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3
 [Git]: https://git-scm.com/
 [HTML5]: http://htmlbook.ru/html5
 [jQuery]: https://jquery.com/
-[]: 
-[]: 
+[.NET]: https://dotnet.microsoft.com/en-us/
+[Atom]: https://atom.io/ 
+[CSS]: https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics
 []: 
 []: 
 []: 
