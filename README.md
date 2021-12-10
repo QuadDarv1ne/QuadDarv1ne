@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @QuadDarv1ne
-- 👀 I’m interested in ... python ... react-native ... node.js ... boostrap ... analytcs 📖
+- 👀 I’m interested in ... python ... react-native ... node.js ... boostrap ... analytics 📖
 - 🌱 I’m currently learning ... react - native ... boostrap ... vue.js ... tabnine
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: maksimqwe42@mail.ru
