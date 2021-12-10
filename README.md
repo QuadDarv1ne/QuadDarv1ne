@@ -107,3 +107,17 @@ https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3
 [android]: https://www.android.com/intl/ru_ru/
 [androidSDK]: https://developer.android.com/studio
 [flaticon]: https://www.flaticon.com/ru/
+[ESLint]: https://eslint.org/
+[Ethereum]: https://ethereum.org/en/
+[Firefox]: https://www.mozilla.org/ru/
+[Firebase]: https://firebase.google.com/
+[Git]: https://git-scm.com/
+[HTML5]: http://htmlbook.ru/html5
+[jQuery]: https://jquery.com/
+[]: 
+[]: 
+[]: 
+[]: 
+[]: 
+[]: 
+[]: 
