@@ -62,13 +62,7 @@ https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3
 
 
 
-[<script type="text/javascript" src="https://vk.com/js/api/openapi.js?169"></script>
-
-<!-- VK Widget -->
-<div id="vk_subscribe"></div>
-<script type="text/javascript">
-VK.Widgets.Subscribe("vk_subscribe", {}, 261248509);
-</script>]
+[<script src="https://vk.com/js/api/openapi.js?169" type="text/javascript"></script>]
 
 
 
