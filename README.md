@@ -10,3 +10,15 @@ You can click the Preview link to take a look at your changes.
 --->
 
 📖 ⓂⒶⓍⒾⓂ ⒹⓊⓅⓁⒺⓎ 2022
+
+
+
+
+[twitter]: https://twitter.com/maksimdupley
+[youtube]: https://www.youtube.com/channel/UCX9nGW7TMpMMYR9TND7JADA?sub_confirmation=1
+[instagram]: https://www.instagram.com/maestro.s4ly1on.quadd4rv1n7/
+[vk]: https://vk.com/maestro7it
+[twitch]: https://www.twitch.tv/quadd4rv1n7
+[facebook]: https://www.facebook.com/maksim.dupley
+[vimeo]: https://vimeo.com/user132649611
+[linkedin]: https://ru.linkedin.com/in/maxim-dupley-06a2b6220
