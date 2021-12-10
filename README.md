@@ -87,5 +87,5 @@ https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3
 [chrome]: https://www.google.com/intl/ru_ru/chrome/
 [boostrap]: https://getbootstrap.com/
 [javascript]: https://learn.javascript.ru/
-[android]: 
+[android]: https://www.android.com/intl/ru_ru/
 [androidSDK]: https://developer.android.com/studio
