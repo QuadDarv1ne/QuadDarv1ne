@@ -60,9 +60,9 @@ https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3
 https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png - Wordpress
 
 
-[<img alight="middle" alt="VK" src="https://vk.cc/c3iFBT">][VK]
+[<img alight="middle" alt="VK" src="https://www.dropbox.com/team/team_logo/dbtid%3AAACHQZx4adzBZiBCpy7P4xtzn3UNxr-wcoE?v=1634126598663">][VK]
 
-[<img alight="middle" alt="freepik" src="https://www.dropbox.com/team/team_logo/dbtid%3AAACHQZx4adzBZiBCpy7P4xtzn3UNxr-wcoE?v=1634126598663">][freepik]
+[<img alight="middle" alt="freepik" src="https://image.freepik.com/free-vector/gradient-new-year-landing-page-template_52683-77290.jpg">][freepik]
 
 [twitter]: https://twitter.com/maksimdupley
 [youtube]: https://www.youtube.com/channel/UCX9nGW7TMpMMYR9TND7JADA?sub_confirmation=1
