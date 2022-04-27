@@ -78,15 +78,11 @@ https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3
 
 [<img alight="middle" width="46px" alt="VK" src="https://www.dropbox.com/team/team_logo/dbtid%3AAACHQZx4adzBZiBCpy7P4xtzn3UNxr-wcoE?v=1634126598663">][VK]
 
-[<img alight="middle" alt="freepik" src="https://image.freepik.com/free-vector/gradient-new-year-landing-page-template_52683-77290.jpg">][freepik]
+[<img alight="middle" alt="freepik" src="https://image.freepik.com/free-vector/">][freepik]
 
-[<img alight="middle" alt="Twitter" src="https://image.freepik.com/free-vector/gradient-new-year-landing-page-template_52683-77290.jpg">][Twitter]
+[<img alight="middle" alt="Twitter" src="https://image.freepik.com/free-vector/">][Twitter]
 
-[<img alight="middle" alt="YouTube" src="https://image.freepik.com/free-vector/gradient-new-year-landing-page-template_52683-77290.jpg">][YouTube]
-
-[<img alight="middle" alt="YouTube" src="https://image.freepik.com/free-vector/gradient-new-year-landing-page-template_52683-77290.jpg">][YouTube]
-
-[<img alight="middle" alt="YouTube" src="https://image.freepik.com/free-vector/gradient-new-year-landing-page-template_52683-77290.jpg">][YouTube]
+[<img alight="middle" alt="YouTube" src="https://img.freepik.com/free-vector/youtube-player-icon-with-flat-design_23-2147837753.jpg?t=st=1651090551~exp=1651091151~hmac=b50dc3b4d7c0b6098e3f31401eaf5638980ce86258b1de2c96dd5218e89ebbfb&w=826">][YouTube]
 
 [twitter]: https://twitter.com/maksimdupley
 [youtube]: https://www.youtube.com/channel/UCX9nGW7TMpMMYR9TND7JADA?sub_confirmation=1
