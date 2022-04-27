@@ -75,12 +75,9 @@ https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3
 
 [<img alight="middle" width="46px" alt="Wordpress" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png">][Wordpress]
 
-
 [<img alight="middle" width="46px" alt="VK" src="https://www.dropbox.com/team/team_logo/dbtid%3AAACHQZx4adzBZiBCpy7P4xtzn3UNxr-wcoE?v=1634126598663">][VK]
 
 [<img alight="middle" alt="freepik" src="https://image.freepik.com/free-vector/">][freepik]
-
-[<img alight="middle" alt="Twitter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png">][Twitter]
 
 [<img alight="middle" alt="YouTube" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/youtube/youtube.png">][YouTube]
 
