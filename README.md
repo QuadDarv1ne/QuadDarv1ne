@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @QuadDarv1ne | 📖 ⓂⒶⓍⒾⓂ ⒹⓊⓅⓁⒺⓎ 2022
+- 👋 Hi, I’m @QuadDarv1ne | 📖 ⓂⒶⓍⒾⓂ ⒹⓊⓅⓁⒺⓎ 2022 🧘‍♂️
 - 👀 I’m interested in ... python ... react-native ... node.js ... boostrap ... analytics 📖
-- 🌱 I’m currently learning ... react - native ... boostrap ... vue.js ... tabnine
+- 🌱 I’m currently learning ... react - native ... boostrap ... vue.js ... tabnine and more
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: maksimqwe42@mail.ru
+- 📫 How to reach me: 📨 maksimqwe42@mail.ru
 
 <!---
 QuadDarv1ne/QuadDarv1ne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
