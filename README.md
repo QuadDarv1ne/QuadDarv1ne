@@ -82,7 +82,9 @@ https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3
 
 [<img alight="middle" alt="Twitter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png">][Twitter]
 
-[<img alight="middle" alt="YouTube" src="https://img.freepik.com/free-vector/youtube-player-icon-with-flat-design_23-2147837753.jpg?t=st=1651090551~exp=1651091151~hmac=b50dc3b4d7c0b6098e3f31401eaf5638980ce86258b1de2c96dd5218e89ebbfb&w=826">][YouTube]
+[<img alight="middle" alt="YouTube" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/youtube/youtube.png">][YouTube]
+
+[<img alight="middle" alt="Instagram" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/instagram/instagram.png">][Instagram]
 
 [twitter]: https://twitter.com/maksimdupley
 [youtube]: https://www.youtube.com/channel/UCX9nGW7TMpMMYR9TND7JADA?sub_confirmation=1
