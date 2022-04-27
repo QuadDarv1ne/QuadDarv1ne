@@ -127,4 +127,15 @@ You can click the Preview link to take a look at your changes.
 [Terminal]: https://www.microsoft.com/ru-ru/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab
 [JupyterNotebook]: https://jupyter.org/
 [Kotlin]: https://kotlinlang.org/
+[Kubernetas]: https://kubernetes.io/ru/docs/concepts/overview/what-is-kubernetes/
+[Linux]: https://www.linux.org.ru/
+[MacOS]: https://www.apple.com/ru/macos/monterey/
+[Node.JS]: https://www.apple.com/ru/macos/monterey/
+[npm]: https://www.apple.com/ru/macos/monterey/
+[MySQL]: https://www.mysql.com/
+[Objective-C]: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+[PHP]: https://www.php.net/
+[React Native]: https://reactnative.dev/
+[ReactiveUI]: https://www.reactiveui.net/
+[Saas]: https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BA%D0%B0%D0%BA_%D1%83%D1%81%D0%BB%D1%83%D0%B3%D0%B0
 [freepik]: https://www.freepik.com/home
