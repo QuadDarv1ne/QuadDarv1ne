@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 [<img alight="left" alt="HTML5" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">][HTML5]
 [<img alight="left" alt="JavaScript" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">][JavaScript]
 [<img alight="" alt="jQuery" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png">][jQuery]
-[<img alight="left" alt="VK" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png">][VK]
+[<img alight="left" alt="VK" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vk/vk.png">][VK]
 
 [<img alight="left" alt="Kotlin" width="28px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png">][Kotlin]
 
@@ -126,5 +126,5 @@ You can click the Preview link to take a look at your changes.
 [Telegram]: https://web.telegram.org/z/
 [Terminal]: https://www.microsoft.com/ru-ru/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab
 [JupyterNotebook]: https://jupyter.org/
-
+[Kotlin]: https://kotlinlang.org/
 [freepik]: https://www.freepik.com/home
