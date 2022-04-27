@@ -79,8 +79,6 @@ https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3
 
 [<img alight="middle" alt="freepik" src="https://image.freepik.com/free-vector/">][freepik]
 
-[<img alight="middle" alt="YouTube" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/youtube/youtube.png">][YouTube]
-
 [<img alight="middle" alt="Instagram" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/instagram/instagram.png">][Instagram]
 
 [twitter]: https://twitter.com/maksimdupley
