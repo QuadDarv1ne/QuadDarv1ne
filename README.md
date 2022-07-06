@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... react - native ... boostrap ... vue.js ... tabnine and more
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 📨 maksimqwe42@mail.ru
-F
+
 <!---
 QuadDarv1ne/QuadDarv1ne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 
 [<img alight="left" alt="Kotlin" width="28px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png">][Kotlin]
 
-[<img alight="left" alt="Kubernetes" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png">][Kubernetes]
+[<img alight="left" alt="Kubernetes" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png">]
 
 [<img alight="left" alt="Linux" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">][Linux]
 
