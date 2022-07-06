@@ -52,7 +52,7 @@ You can click the Preview link to take a look at your changes.
 [<img alight="middle" alt="PHP" width="46px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png">][PHP]
 [<img alight="middle" alt="React Native" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png">][React Native]
 [<img alight="middle" alt="ReactiveUI" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/reactiveui/reactiveui.png">][ReactiveUI]
-[<img alight="middle" alt="Saas" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">][Saas]
+<img alight="middle" alt="Saas" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
 [<img alight="middle" alt="JupyterNotebook" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">][JupyterNotebook]
 [<img alight="middle" alt="Swift" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png">][Swift]
 [<img alight="middle" alt="Telegram" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png">][Telegram]
