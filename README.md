@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... react - native ... boostrap ... vue.js ... tabnine and more
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 📨 maksimqwe42@mail.ru
-
+F
 <!---
 QuadDarv1ne/QuadDarv1ne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -65,12 +65,9 @@ You can click the Preview link to take a look at your changes.
 [<img alight="middle" width="46px" alt="Vue.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">][Vue.js]
 [<img alight="middle" width="46px" alt="WebPack" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png">][WebPack]
 [<img alight="middle" width="46px" alt="Wordpress" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png">][Wordpress]
-[<img alight="middle" width="46px" alt="VK" src="https://www.dropbox.com/team/team_logo/dbtid%3AAACHQZx4adzBZiBCpy7P4xtzn3UNxr-wcoE?v=1634126598663">][VK]
-[<img alight="middle" alt="Instagram" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/instagram/instagram.png">][Instagram]
 
 [twitter]: https://twitter.com/maksimdupley
 [youtube]: https://www.youtube.com/channel/UCX9nGW7TMpMMYR9TND7JADA?sub_confirmation=1
-[instagram]: https://www.instagram.com/maestro.s4ly1on.quadd4rv1n7/
 [vk]: https://vk.com/maestro7it
 [twitch]: https://www.twitch.tv/quadd4rv1n7
 [facebook]: https://www.facebook.com/maksim.dupley
