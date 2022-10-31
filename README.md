@@ -111,3 +111,9 @@ You can click the Preview link to take a look at your changes.
 [PHP]: https://www.php.net/
 [React Native]: https://reactnative.dev/
 [ReactiveUI]: https://www.reactiveui.net/
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
+<!---Top Languages Card (Для компактной версии) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
