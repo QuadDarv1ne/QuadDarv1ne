@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @QuadDarv1ne | 📖 ⓂⒶⓍⒾⓂ ⒹⓊⓅⓁⒺⓎ 2022 🧘‍♂️
+- 💻 I'm DevOps Engineer & UX/UI Designer
 - 👀 I’m interested in ... python ... react-native ... node.js ... boostrap ... analytics 📖
 - 🌱 I’m currently learning ... react - native ... boostrap ... vue.js ... tabnine and more
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: 📨 maksimqwe42@mail.ru
+- 💞️ I’m looking to collaborate on #MaximDupley #QuadD4rv1n7 #it_baza_znaniy
+- 📫 How to reach me:
+📨 maksimqwe42@mail.ru
+📱 +7-915-048-02-49
+📱 +7-901-706-51-76
 
 <!---
 QuadDarv1ne/QuadDarv1ne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
