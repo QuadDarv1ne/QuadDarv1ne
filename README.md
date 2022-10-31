@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning ... react - native ... boostrap ... vue.js ... tabnine and more
 - 💞️ I’m looking to collaborate on #MaximDupley #QuadD4rv1n7 #it_baza_znaniy
 - 📫 How to reach me:
-📨 maksimqwe42@mail.ru
-📱 +7-915-048-02-49
-📱 +7-901-706-51-76
+- 📨 maksimqwe42@mail.ru
+- 📱 +7-915-048-02-49
+- 📱 +7-901-706-51-76
 
 <!---
 QuadDarv1ne/QuadDarv1ne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
