@@ -1,27 +1,34 @@
-- 👋 Hi, I’m @QuadDarv1ne | 📖 ⓂⒶⓍⒾⓂ ⒹⓊⓅⓁⒺⓎ 2022 🧘‍♂️
+<h1 align="center">Hello there, I'm <a href="" target="_blank">Maxim Dupley</a>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">DevOps Engineer & UX/UI Designer, Informatics and Computer Science Teacher (BMSTU) and Innopolis University</h3>
+
+<!---Пример кода-->
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&multiline=true&width=513&lines=DevOps+Engineer+%26+Computer+Science+Student)](https://git.io/typing-svg)
+# [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 - 💻 I'm DevOps Engineer & UX/UI Designer
-- 👀 I’m interested in ... python ... react-native ... node.js ... boostrap ... analytics 📖
-- 🌱 I’m currently learning ... react - native ... boostrap ... vue.js ... tabnine and more
+- 👀 I’m interested in: Python, C++, Unity, React-Native, Node.js ... Analytics 📖
+- 🌱 I’m currently learning Unity, Tabnine, C++ and more
 - 💞️ I’m looking to collaborate on #MaximDupley #QuadD4rv1n7 #it_baza_znaniy
-- 📫 How to reach me:
--- 📨 maksimqwe42@mail.ru
--- 📱 +7-915-048-02-49
--- 📱 +7-901-706-51-76
+### <img alight="justify" alt="Repository" width="24px" src="https://user-images.githubusercontent.com/51045274/214694912-73db7626-50dd-429d-aeb1-24cafb993446.png"> @QuadD4rv1n7
 
 <!---
 QuadDarv1ne/QuadDarv1ne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-[<img alight="left" alt="Flaticon" width="70px" src="https://cdn-icons-png.flaticon.com/512/6133/6133432.png">][flaticon]
-[<img alight="left" alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCX9nGW7TMpMMYR9TND7JADA?style=social">][youtube]
+#
+<img alight="left" alt="Repository" width="46px" src="https://user-images.githubusercontent.com/51045274/214687375-ed47c2ba-5236-49a7-8363-e32ae447e684.png">Supported Programming Languages
+
+[<img alight="left" alt="Flaticon" width="46px" src="https://cdn-icons-png.flaticon.com/512/6133/6133432.png">][flaticon]
+[<img alight="left" alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/...?style=social">][youtube]
 
 [<img alight="left" alt="Chrome" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png">][chrome]
 [<img alight="" alt="Boostrap" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">][boostrap]
 [<img alight="" alt="Python" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">][python]
 [<img alight="" alt="Windows" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png">][windows]
 [<img alight="" alt="Android" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">][android]
-[<img alight="" alt="AndroidSDK" width="46px" src="https://www.gstatic.com/devrel-devsite/prod/v0009e14c1212eb34a833a614ba55cbefddb8efdabe01fcac037dbc181c8c3153/android/images/lockup.svg">][androidSDK]
+[<img alight="" alt="AndroidSDK" width="46px" src="https://user-images.githubusercontent.com/51045274/214685681-00b784ad-174f-418e-906d-fb2e21a4aac1.png">][androidSDK]
 [<img alight="" alt="Atom" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png">][Atom]
 [<img alight="" alt="C" width="46px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png">][C]
 [<img alight="" alt="C#" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">][C#]
@@ -36,14 +43,14 @@ You can click the Preview link to take a look at your changes.
 [<img alight="left" alt="HTML5" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">][HTML5]
 [<img alight="left" alt="JavaScript" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">][JavaScript]
 [<img alight="" alt="jQuery" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png">][jQuery]
-[<img alight="left" alt="Kotlin" width="28px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png">][Kotlin]
-[<img alight="left" alt="Kubernetes" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png">]
+[<img alight="left" alt="Kotlin" width="46px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png">][Kotlin]
+<img alight="left" alt="Kubernetes" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png">
 
-[<img alight="left" alt="Linux" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">][Linux]
-[<img alight="left" alt="MacOS" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png">][MacOS]
-[<img alight="left" alt="Node.JS" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">][Node.JS]
-[<img alight="left" alt="npm" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png">][npm]
-[<img alight="left" alt="MySQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">][MySQL]
+[<img alight="left" alt="Linux" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">][Linux]
+[<img alight="left" alt="MacOS" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png">][MacOS]
+[<img alight="left" alt="Node.JS" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">][Node.JS]
+[<img alight="left" alt="npm" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png">][npm]
+[<img alight="left" alt="MySQL" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">][MySQL]
 [<img alight="left" alt="Objective-C" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png">][Objective-C]
 [<img alight="middle" alt="PHP" width="46px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png">][PHP]
 [<img alight="middle" alt="React Native" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png">][React Native]
@@ -61,7 +68,7 @@ You can click the Preview link to take a look at your changes.
 [<img alight="middle" width="46px" alt="Vue.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">][Vue.js]
 [<img alight="middle" width="46px" alt="WebPack" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png">][WebPack]
 [<img alight="middle" width="46px" alt="Wordpress" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png">][Wordpress]
-
+#
 [twitter]: https://twitter.com/maksimdupley
 [youtube]: https://www.youtube.com/channel/UCX9nGW7TMpMMYR9TND7JADA?sub_confirmation=1
 [vk]: https://vk.com/maestro7it
@@ -113,9 +120,29 @@ You can click the Preview link to take a look at your changes.
 [ReactiveUI]: https://www.reactiveui.net/
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 <!---Top Languages Card (Для компактной версии) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+# TODO: [ Полезные ссылки ]
+- [ 1 ] ⌨️ Readme Typing SVG: https://readme-typing-svg.herokuapp.com/demo/
+- [ 2 ] Emojipedia: https://emojipedia.org/
+- [ 3 ] Stack Overflow на русском: https://ru.stackoverflow.com/
+- [ 4 ] Fonts Knowledge - Google Fonts: https://fonts.google.com/knowledge
+- [ 5 ] Издание о разработке и обо всём, что с ней связано: https://tproger.ru/
+
+# 📫 How to reach for me:
+* 📨 maksimqwe42@mail.ru
+* :gem: Telegram: @QuadD4rv1n7
+* 📱+7-915-048-02-49
+* 📱+7-901-706-51-76
+
+> 📖 ⓂⒶⓍⒾⓂ ⒹⓊⓅⓁⒺⓎ 2023 🧘‍♂️
+>
+> 🧑‍💻 Thank's for watching (^-^")~
+
+#
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+                                                            « 🇷🇺 . 🇺🇸 . 🇯🇵 . 🇫🇷 . 🇬🇧 . 🇪🇸 » 
