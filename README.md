@@ -142,7 +142,26 @@ You can click the Preview link to take a look at your changes.
 >
 > 🧑‍💻 Thank's for watching (^-^")~
 
-#
+# Иконки проектов:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
+# Reposytoryes:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QuadDarv1ne&repo=sfml-vscode)](https://github.com/QuadDarv1ne/sfml-vscode)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QuadDarv1ne&repo=super-mario-python)](https://github.com/QuadDarv1ne/super-mario-python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QuadDarv1ne&repo=vue-interactive-paycard)](https://github.com/QuadDarv1ne/vue-interactive-paycard)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QuadDarv1ne&repo=metrics)](https://github.com/QuadDarv1ne/metrics)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QuadDarv1ne&repo=Python-checkers)](https://github.com/QuadDarv1ne/Python-checkers)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_frappe)](https://github.com/piyushsuthar/github-readme-quotes)
 
                                                             « 🇷🇺 . 🇺🇸 . 🇯🇵 . 🇫🇷 . 🇬🇧 . 🇪🇸 » 
