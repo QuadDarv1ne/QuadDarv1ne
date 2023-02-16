@@ -169,4 +169,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_frappe)](https://github.com/piyushsuthar/github-readme-quotes)
 
-                                                            « 🇷🇺 . 🇺🇸 . 🇯🇵 . 🇫🇷 . 🇬🇧 . 🇪🇸 »
+                                                       « 🇷🇺 . 🇺🇸 . 🇯🇵 . 🇫🇷 . 🇬🇧 . 🇪🇸 »
