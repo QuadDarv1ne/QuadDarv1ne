@@ -10,7 +10,11 @@
 - 👀 I’m interested in: Python, C++, Unity, React-Native, Node.js ... Analytics 📖
 - 🌱 I’m currently learning Unity, Tabnine, C++ and more
 - 💞️ I’m looking to collaborate on #MaximDupley #QuadD4rv1n7 #it_baza_znaniy
-### <img alight="justify" alt="Repository" width="24px" src="https://user-images.githubusercontent.com/51045274/214694912-73db7626-50dd-429d-aeb1-24cafb993446.png"> @QuadD4rv1n7
+
+![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) 
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <!---
 QuadDarv1ne/QuadDarv1ne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 #
 <img alight="left" alt="Repository" width="46px" src="https://user-images.githubusercontent.com/51045274/214687375-ed47c2ba-5236-49a7-8363-e32ae447e684.png">Supported Programming Languages
 
-[<img alight="left" alt="Flaticon" width="46px" src="https://cdn-icons-png.flaticon.com/512/6133/6133432.png">][flaticon]
+[<img alight="justify" alt="Flaticon" width="46px" src="https://cdn-icons-png.flaticon.com/512/6133/6133432.png">][flaticon]
 [<img alight="left" alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/...?style=social">][youtube]
 
 [<img alight="left" alt="Chrome" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png">][chrome]
@@ -132,6 +136,7 @@ You can click the Preview link to take a look at your changes.
 - [ 4 ] Fonts Knowledge - Google Fonts: https://fonts.google.com/knowledge
 - [ 5 ] Издание о разработке и обо всём, что с ней связано: https://tproger.ru/
 
+![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)
 # 📫 How to reach for me:
 * 📨 maksimqwe42@mail.ru
 * :gem: Telegram: @QuadD4rv1n7
@@ -164,4 +169,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_frappe)](https://github.com/piyushsuthar/github-readme-quotes)
 
-                                                            « 🇷🇺 . 🇺🇸 . 🇯🇵 . 🇫🇷 . 🇬🇧 . 🇪🇸 » 
+                                                            « 🇷🇺 . 🇺🇸 . 🇯🇵 . 🇫🇷 . 🇬🇧 . 🇪🇸 »
