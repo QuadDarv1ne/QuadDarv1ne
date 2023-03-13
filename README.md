@@ -124,10 +124,15 @@ You can click the Preview link to take a look at your changes.
 [ReactiveUI]: https://www.reactiveui.net/
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=QuadDarv1ne)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=QuadDarv1ne)](https://git.io/streak-stats)
+
+<!---Пример кода-->
 
 <!---Top Languages Card (Для компактной версии) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuadDarv1ne&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuadDarv1ne&theme=discord_old_blurple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # TODO: [ Полезные ссылки ]
 - [ 1 ] ⌨️ Readme Typing SVG: https://readme-typing-svg.herokuapp.com/demo/
