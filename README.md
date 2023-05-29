@@ -4,7 +4,7 @@
 
 <!---Пример кода-->
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&multiline=true&width=513&lines=DevOps+Engineer+%26+Computer+Science+Student)](https://git.io/typing-svg)
-# [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuadDarv1ne)](https://github.com/anuraghazra/github-readme-stats)
+# [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=QuadDarv1ne)](https://github.com/anuraghazra/github-readme-stats)
 
 - 💻 I'm DevOps Engineer & UX/UI Designer
 - 👀 I’m interested in: Python, C++, Unity, React-Native, Node.js ... Analytics 📖
@@ -130,9 +130,9 @@ You can click the Preview link to take a look at your changes.
 <!---Пример кода-->
 
 <!---Top Languages Card (Для компактной версии) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuadDarv1ne&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=QuadDarv1ne&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuadDarv1ne&theme=discord_old_blurple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=QuadDarv1ne&theme=discord_old_blurple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # TODO: [ Полезные ссылки ]
 - [ 1 ] ⌨️ Readme Typing SVG: https://readme-typing-svg.herokuapp.com/demo/
@@ -163,13 +163,13 @@ You can click the Preview link to take a look at your changes.
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 # Reposytoryes:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QuadDarv1ne&repo=sfml-vscode)](https://github.com/QuadDarv1ne/sfml-vscode)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QuadDarv1ne&repo=super-mario-python)](https://github.com/QuadDarv1ne/super-mario-python)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QuadDarv1ne&repo=vue-interactive-paycard)](https://github.com/QuadDarv1ne/vue-interactive-paycard)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=QuadDarv1ne&repo=sfml-vscode)](https://github.com/QuadDarv1ne/sfml-vscode)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=QuadDarv1ne&repo=super-mario-python)](https://github.com/QuadDarv1ne/super-mario-python)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=QuadDarv1ne&repo=vue-interactive-paycard)](https://github.com/QuadDarv1ne/vue-interactive-paycard)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QuadDarv1ne&repo=metrics)](https://github.com/QuadDarv1ne/metrics)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QuadDarv1ne&repo=Python-checkers)](https://github.com/QuadDarv1ne/Python-checkers)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=QuadDarv1ne&repo=metrics)](https://github.com/QuadDarv1ne/metrics)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=QuadDarv1ne&repo=Python-checkers)](https://github.com/QuadDarv1ne/Python-checkers)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_frappe)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme-sigma-five.vercel.app/api?type=horizontal&theme=catppuccin_frappe)](https://github.com/piyushsuthar/github-readme-quotes)
 
                                                        « 🇷🇺 . 🇺🇸 . 🇯🇵 . 🇫🇷 . 🇬🇧 . 🇪🇸 »
