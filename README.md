@@ -22,56 +22,54 @@ You can click the Preview link to take a look at your changes.
 --->
 
 #
-<img alight="left" alt="Repository" width="46px" src="https://user-images.githubusercontent.com/51045274/214687375-ed47c2ba-5236-49a7-8363-e32ae447e684.png">Supported Programming Languages
+<img align="" alt="Repository" width="46px" src="https://user-images.githubusercontent.com/51045274/214687375-ed47c2ba-5236-49a7-8363-e32ae447e684.png"> Supported Programming Languages
+<!--- [<img align="left" alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/...?style=social">][youtube] --->
+[<img align="justify" alt="Flaticon" width="46px" src="https://cdn-icons-png.flaticon.com/512/6133/6133432.png">][flaticon]
+[<img align="justify" alt="Chrome" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png">][chrome]
+[<img align="justify" alt="Boostrap" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">][boostrap]
+[<img align="justify" alt="Python" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">][python]
+[<img align="justify" alt="Windows" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png">][windows]
+[<img align="justify" alt="Android" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">][android]
+[<img align="justify" alt="AndroidSDK" width="46px" src="https://user-images.githubusercontent.com/51045274/214685681-00b784ad-174f-418e-906d-fb2e21a4aac1.png">][androidSDK]
+[<img align="justify" alt="Atom" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png">][Atom]
+[<img align="justify" alt="C" width="46px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png">][C]
+[<img align="justify" alt="C#" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">][C#]
+[<img align="justify" alt="CSS" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">][CSS]
 
-[<img alight="justify" alt="Flaticon" width="46px" src="https://cdn-icons-png.flaticon.com/512/6133/6133432.png">][flaticon]
-[<img alight="left" alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/...?style=social">][youtube]
+[<img align="justify" alt=".NET" width="46px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png">][.NET]
+[<img align="justify" alt="ESLint" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">][ESLint]
+[<img align="justify" alt="Ethereum" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png">][Ethereum]
+[<img align="" alt="Firefox" width="46px" src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png">][Firefox]
+[<img align="" alt="Firebase" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">][Firebase]
+[<img align="left" alt="Git" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">][Git]
+[<img align="left" alt="HTML5" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">][HTML5]
+[<img align="left" alt="JavaScript" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">][JavaScript]
+[<img align="" alt="jQuery" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png">][jQuery]
+[<img align="left" alt="Kotlin" width="46px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png">][Kotlin]
+<img align="left" alt="Kubernetes" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png">
 
-[<img alight="left" alt="Chrome" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png">][chrome]
-[<img alight="" alt="Boostrap" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">][boostrap]
-[<img alight="" alt="Python" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">][python]
-[<img alight="" alt="Windows" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png">][windows]
-[<img alight="" alt="Android" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">][android]
-[<img alight="" alt="AndroidSDK" width="46px" src="https://user-images.githubusercontent.com/51045274/214685681-00b784ad-174f-418e-906d-fb2e21a4aac1.png">][androidSDK]
-[<img alight="" alt="Atom" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png">][Atom]
-[<img alight="" alt="C" width="46px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png">][C]
-[<img alight="" alt="C#" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">][C#]
-[<img alight="" alt="CSS" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">][CSS]
+[<img align="justify" alt="Linux" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">][Linux]
+[<img align="justify" alt="MacOS" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png">][MacOS]
+[<img align="justify" alt="Node.JS" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">][Node.JS]
+[<img align="justify" alt="npm" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png">][npm]
+[<img align="justify" alt="MySQL" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">][MySQL]
+[<img align="justify" alt="Objective-C" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png">][Objective-C]
+[<img align="justify" alt="PHP" width="46px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png">][PHP]
+[<img align="justify" alt="React Native" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png">][React Native]
+[<img align="justify" alt="ReactiveUI" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/reactiveui/reactiveui.png">][ReactiveUI]
+[<img align="justify" alt="JupyterNotebook" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">][JupyterNotebook]
+<img align="justify" alt="Saas" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
 
-[<img alight="left" alt=".NET" width="46px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png">][.NET]
-[<img alight="left" alt="ESLint" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">][ESLint]
-[<img alight="left" alt="Ethereum" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png">][Ethereum]
-[<img alight="" alt="Firefox" width="46px" src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png">][Firefox]
-[<img alight="" alt="Firebase" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">][Firebase]
-[<img alight="left" alt="Git" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">][Git]
-[<img alight="left" alt="HTML5" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">][HTML5]
-[<img alight="left" alt="JavaScript" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">][JavaScript]
-[<img alight="" alt="jQuery" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png">][jQuery]
-[<img alight="left" alt="Kotlin" width="46px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png">][Kotlin]
-<img alight="left" alt="Kubernetes" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png">
-
-[<img alight="left" alt="Linux" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">][Linux]
-[<img alight="left" alt="MacOS" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png">][MacOS]
-[<img alight="left" alt="Node.JS" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">][Node.JS]
-[<img alight="left" alt="npm" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png">][npm]
-[<img alight="left" alt="MySQL" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">][MySQL]
-[<img alight="left" alt="Objective-C" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png">][Objective-C]
-[<img alight="middle" alt="PHP" width="46px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png">][PHP]
-[<img alight="middle" alt="React Native" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png">][React Native]
-[<img alight="middle" alt="ReactiveUI" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/reactiveui/reactiveui.png">][ReactiveUI]
-<img alight="middle" alt="Saas" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
-[<img alight="middle" alt="JupyterNotebook" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">][JupyterNotebook]
-
-[<img alight="middle" alt="Swift" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png">][Swift]
-[<img alight="middle" alt="Telegram" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png">][Telegram]
-[<img alight="middle" alt="Terminal" width="46px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png">][Terminal]
-[<img alight="middle" alt="Twitter" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png">][Twitter]
-[<img alight="middle" width="46px" alt="Ubuntu" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png">][Ubuntu]
-[<img alight="middle" width="46px" alt="Unity" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png">][Unity]
-[<img alight="middle" width="46px" alt="UnrealEngine" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png">][UnrealEngine]
-[<img alight="middle" width="46px" alt="Vue.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">][Vue.js]
-[<img alight="middle" width="46px" alt="WebPack" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png">][WebPack]
-[<img alight="middle" width="46px" alt="Wordpress" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png">][Wordpress]
+[<img align="justify" alt="Swift" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png">][Swift]
+[<img align="justify" alt="Telegram" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png">][Telegram]
+[<img align="justify" alt="Terminal" width="46px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png">][Terminal]
+[<img align="justify" alt="Twitter" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png">][Twitter]
+[<img align="justify" width="46px" alt="Ubuntu" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png">][Ubuntu]
+[<img align="justify" width="46px" alt="Unity" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png">][Unity]
+[<img align="justify" width="46px" alt="UnrealEngine" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png">][UnrealEngine]
+[<img align="justify" width="46px" alt="Vue.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">][Vue.js]
+[<img align="justify" width="46px" alt="WebPack" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png">][WebPack]
+[<img align="justify" width="46px" alt="Wordpress" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png">][Wordpress]
 #
 [twitter]: https://twitter.com/maksimdupley
 [youtube]: https://www.youtube.com/channel/UCX9nGW7TMpMMYR9TND7JADA?sub_confirmation=1
@@ -134,23 +132,19 @@ You can click the Preview link to take a look at your changes.
 
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=QuadDarv1ne&theme=discord_old_blurple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-# TODO: [ Полезные ссылки ]
+# ![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white) TODO: [ Полезные ссылки ]
 - [ 1 ] ⌨️ Readme Typing SVG: https://readme-typing-svg.herokuapp.com/demo/
 - [ 2 ] Emojipedia: https://emojipedia.org/
 - [ 3 ] Stack Overflow на русском: https://ru.stackoverflow.com/
 - [ 4 ] Fonts Knowledge - Google Fonts: https://fonts.google.com/knowledge
 - [ 5 ] Издание о разработке и обо всём, что с ней связано: https://tproger.ru/
 
-![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)
 # 📫 How to reach for me:
 * 📨 maksimqwe42@mail.ru
 * :gem: Telegram: @QuadD4rv1n7
 * 📱+7-915-048-02-49
 * 📱+7-901-706-51-76
-
-> 📖 ⓂⒶⓍⒾⓂ ⒹⓊⓅⓁⒺⓎ 2023 🧘‍♂️
->
-> 🧑‍💻 Thank's for watching (^-^")~
+* ₪ 🧑‍💻 Thank's for watching (^-^")~ ₪
 
 # Иконки проектов:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -170,6 +164,5 @@ You can click the Preview link to take a look at your changes.
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=QuadDarv1ne&repo=metrics)](https://github.com/QuadDarv1ne/metrics)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=QuadDarv1ne&repo=Python-checkers)](https://github.com/QuadDarv1ne/Python-checkers)
 
-[![Readme Quotes](https://quotes-github-readme-sigma-five.vercel.app/api?type=horizontal&theme=catppuccin_frappe)](https://github.com/piyushsuthar/github-readme-quotes)
-
+                                                    ₪ 📖 ⓂⒶⓍⒾⓂ ⒹⓊⓅⓁⒺⓎ 2023 🧘‍♂ ₪
                                                        « 🇷🇺 . 🇺🇸 . 🇯🇵 . 🇫🇷 . 🇬🇧 . 🇪🇸 »
