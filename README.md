@@ -146,6 +146,9 @@ You can click the Preview link to take a look at your changes.
 * 📱+7-901-706-51-76
 * ₪ 🧑‍💻 Thank's for watching (^-^")~ ₪
 
+Большой (large):  
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/QuadDarv1ne)  
+
 # Иконки проектов:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
