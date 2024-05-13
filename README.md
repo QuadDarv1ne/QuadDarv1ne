@@ -147,7 +147,7 @@ You can click the Preview link to take a look at your changes.
 * ₪ 🧑‍💻 Thank's for watching (^-^")~ ₪
 
 Большой (large):  
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/QuadDarv1ne)  
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/QuadD4rv1n7)  
 
 # Иконки проектов:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
