@@ -146,7 +146,7 @@ You can click the Preview link to take a look at your changes.
 * 📱+7-901-706-51-76
 * ₪ 🧑‍💻 Thank's for watching (^-^")~ ₪
 
-* Администраторы CodeWars блокируют аккаунты русско-язычных пользователей, рассисты.
+Администраторы CodeWars блокируют аккаунты русско-язычных пользователей, рассисты.
 [![CodeWars Profile](https://www.codewars.com/users/QuadD4rv1n7/badges/large)](https://www.codewars.com/users/QuadD4rv1n7)
 
 # Иконки проектов:
