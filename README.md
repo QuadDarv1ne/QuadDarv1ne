@@ -133,18 +133,18 @@ You can click the Preview link to take a look at your changes.
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=QuadDarv1ne&theme=discord_old_blurple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # ![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white) TODO: [ Полезные ссылки ]
-- [ 1 ] ⌨️ Readme Typing SVG: https://readme-typing-svg.herokuapp.com/demo/
-- [ 2 ] Emojipedia: https://emojipedia.org/
-- [ 3 ] Stack Overflow на русском: https://ru.stackoverflow.com/
-- [ 4 ] Fonts Knowledge - Google Fonts: https://fonts.google.com/knowledge
-- [ 5 ] Издание о разработке и обо всём, что с ней связано: https://tproger.ru/
+- 1️⃣ ⌨️ Readme Typing SVG: https://readme-typing-svg.herokuapp.com/demo/
+- 2️⃣ Emojipedia: https://emojipedia.org/
+- 3️⃣ Stack Overflow на русском: https://ru.stackoverflow.com/
+- 4️⃣ Fonts Knowledge - Google Fonts: https://fonts.google.com/knowledge
+- 5️⃣ Издание о разработке и обо всём, что с ней связано: https://tproger.ru/
 
 # 📫 How to reach for me:
 * 📨 maksimqwe42@mail.ru
-* :gem: Telegram: @QuadD4rv1n7
+* :gem: Telegram: @quadd4rv1n7
 * 📱+7-915-048-02-49
 * 📱+7-901-706-51-76
-* ₪ 🧑‍💻 Thank's for watching (^-^")~ ₪
+* 🧑‍💻 Thank's for watching (^-^")~
 
 Администраторы CodeWars блокируют аккаунты русско-язычных пользователей, рассисты.
 [![CodeWars Profile](https://www.codewars.com/users/QuadD4rv1n7/badges/large)](https://www.codewars.com/users/QuadD4rv1n7)
@@ -167,5 +167,5 @@ You can click the Preview link to take a look at your changes.
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=QuadDarv1ne&repo=metrics)](https://github.com/QuadDarv1ne/metrics)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=QuadDarv1ne&repo=Python-checkers)](https://github.com/QuadDarv1ne/Python-checkers)
 
-                                                    ₪ 📖 ⓂⒶⓍⒾⓂ ⒹⓊⓅⓁⒺⓎ 2023 🧘‍♂ ₪
-                                                       « 🇷🇺 . 🇺🇸 . 🇯🇵 . 🇫🇷 . 🇬🇧 . 🇪🇸 »
+                                                  ₪ 📖 ⓂⒶⓍⒾⓂ ⒹⓊⓅⓁⒺⓎ 2024 🧘‍♂ ₪
+                                                     « 🇷🇺 . 🇺🇸 . 🇯🇵 . 🇫🇷 . 🇬🇧 . 🇪🇸 »
