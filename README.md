@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">DevOps Engineer & UX/UI Designer, Informatics and Computer Science Teacher (BMSTU) and Innopolis University</h3>
 
-<!---Пример кода-->
+<!-- Пример кода-->
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&multiline=true&width=513&lines=DevOps+Engineer+%26+Computer+Science+Student)](https://git.io/typing-svg)
 # [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=QuadDarv1ne)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -21,7 +21,6 @@ QuadDarv1ne/QuadDarv1ne is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-#
 <img align="" alt="Repository" width="46px" src="https://user-images.githubusercontent.com/51045274/214687375-ed47c2ba-5236-49a7-8363-e32ae447e684.png"> Supported Programming Languages
 <!--- [<img align="left" alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/...?style=social">][youtube] --->
 [<img align="justify" alt="Flaticon" width="46px" src="https://cdn-icons-png.flaticon.com/512/6133/6133432.png">][flaticon]
@@ -70,7 +69,7 @@ You can click the Preview link to take a look at your changes.
 [<img align="justify" width="46px" alt="Vue.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">][Vue.js]
 [<img align="justify" width="46px" alt="WebPack" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png">][WebPack]
 [<img align="justify" width="46px" alt="Wordpress" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png">][Wordpress]
-#
+
 [twitter]: https://twitter.com/maksimdupley
 [youtube]: https://www.youtube.com/channel/UCX9nGW7TMpMMYR9TND7JADA?sub_confirmation=1
 [vk]: https://vk.com/maestro7it
@@ -125,9 +124,9 @@ You can click the Preview link to take a look at your changes.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=QuadDarv1ne)](https://git.io/streak-stats)
 
-<!---Пример кода-->
+<!--Пример кода-->
 
-<!---Top Languages Card (Для компактной версии) -->
+<!-- Top Languages Card (Для компактной версии) -->
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=QuadDarv1ne&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=QuadDarv1ne&theme=discord_old_blurple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -146,7 +145,7 @@ You can click the Preview link to take a look at your changes.
 * 📱+7-901-706-51-76
 * 🧑‍💻 Thank's for watching (^-^")~
 
-Администраторы CodeWars блокируют аккаунты русско-язычных пользователей, рассисты.
+Администраторы CodeWars блокируют аккаунты русско-язычных пользователей (рассисты)
 [![CodeWars Profile](https://www.codewars.com/users/QuadD4rv1n7/badges/large)](https://www.codewars.com/users/QuadD4rv1n7)
 
 # Иконки проектов:
