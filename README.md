@@ -166,5 +166,13 @@ You can click the Preview link to take a look at your changes.
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=QuadDarv1ne&repo=metrics)](https://github.com/QuadDarv1ne/metrics)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=QuadDarv1ne&repo=Python-checkers)](https://github.com/QuadDarv1ne/Python-checkers)
 
+
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/QuadDarv1ne/count.svg" />
+</p>
+
                                                   ₪ 📖 ⓂⒶⓍⒾⓂ ⒹⓊⓅⓁⒺⓎ 2024 🧘‍♂ ₪
                                                      « 🇷🇺 . 🇺🇸 . 🇯🇵 . 🇫🇷 . 🇬🇧 . 🇪🇸 »
