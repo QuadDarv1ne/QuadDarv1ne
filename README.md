@@ -6,10 +6,12 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&multiline=true&width=513&lines=DevOps+Engineer+%26+Computer+Science+Student)](https://git.io/typing-svg)
 # [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=QuadDarv1ne)](https://github.com/anuraghazra/github-readme-stats)
 
-- 💻 I'm DevOps Engineer & UX/UI Designer
+- 💻 I'm DevOps Engineer & UX/UI Designer & IT Teacher
 - 👀 I’m interested in: Python, C++, Unity, React-Native, Node.js ... Analytics 📖
 - 🌱 I’m currently learning Unity, Tabnine, C++ and more
-- 💞️ I’m looking to collaborate on #MaximDupley #QuadD4rv1n7 #it_baza_znaniy
+- 💞️ I’m looking to collaborate on #MaximDupley #quadd4rv1n7 #it_baza_znaniy #hut_programmer_07 #MD
+
+**Человек, которого Бог взял под своё крыло**
 
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) 
