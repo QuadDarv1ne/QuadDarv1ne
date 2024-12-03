@@ -8,8 +8,18 @@
 
 - 💻 I'm DevOps Engineer & UX/UI Designer & IT Teacher
 - 👀 I’m interested in: Python, C++, Unity, React-Native, Node.js ... Analytics 📖
-- 🌱 I’m currently learning Unity, Tabnine, C++ and more
+- 🌱 I’m currently learning: Unity, C++ and more
 - 💞️ I’m looking to collaborate on #MaximDupley #quadd4rv1n7 #it_baza_znaniy #hut_programmer_07 #MD
+
+## 👨‍🎓 Education
+
+- **MGIMO College of the MFA of Russia** (Odintsovo, Russia)  
+  - **Specialization**: Software Technician (Vocational Education)  
+  - **Graduation Year**: 2019
+
+- **National Research University "MPEI"** (Moscow, Russia)  
+  - **Degree**: Bachelor of 09.02.03 Informatics and Computer Science
+  - **Graduation Year**: 2024
 
 **Человек, которого Бог взял под своё крыло**
 
