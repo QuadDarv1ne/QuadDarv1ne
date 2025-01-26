@@ -9,7 +9,7 @@
 - 💻 I'm DevOps Engineer & UX/UI Designer & IT Teacher
 - 👀 I’m interested in: Python, C++, Unity, React-Native, Node.js ... Analytics 📖
 - 🌱 I’m currently learning: Unity, C++ and more
-- 💞️ I’m looking to collaborate on #MaximDupley #quadd4rv1n7 #it_baza_znaniy #hut_programmer_07 #MD
+- 💞️ I’m looking to collaborate on #MaximDupley #quadd4rv1n7 #hut_programmer_07 #MD
 
 ## 👨‍🎓 Education
 
@@ -186,5 +186,5 @@ You can click the Preview link to take a look at your changes.
   <img src="https://profile-counter.glitch.me/QuadDarv1ne/count.svg" />
 </p>
 
-                                                  ₪ 📖 ⓂⒶⓍⒾⓂ ⒹⓊⓅⓁⒺⓎ 2024 🧘‍♂ ₪
+                                                  ₪ 📖 ⓂⒶⓍⒾⓂ ⒹⓊⓅⓁⒺⓎ 2025 🧘‍♂ ₪
                                                      « 🇷🇺 . 🇺🇸 . 🇯🇵 . 🇫🇷 . 🇬🇧 . 🇪🇸 »
