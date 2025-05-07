@@ -82,6 +82,8 @@ You can click the Preview link to take a look at your changes.
 [<img align="justify" width="46px" alt="WebPack" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png">][WebPack]
 [<img align="justify" width="46px" alt="Wordpress" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png">][Wordpress]
 
+![востребованные_навыки](https://github.com/user-attachments/assets/0cde39a4-bb10-477b-8387-4b7d96df2ad4)
+
 [twitter]: https://twitter.com/maksimdupley
 [youtube]: https://www.youtube.com/channel/UCX9nGW7TMpMMYR9TND7JADA?sub_confirmation=1
 [vk]: https://vk.com/maestro7it
