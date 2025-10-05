@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning: Unity, C++ and more
 - 💞️ I’m looking to collaborate on #MaximDupley #quadd4rv1n7 #hut_programmer_07 #MD
 
--- ORCID: https://orcid.org/0009-0007-7605-539X
+**ORCID:** https://orcid.org/0009-0007-7605-539X
 
 ## 👨‍🎓 Education
 
