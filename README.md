@@ -163,15 +163,16 @@ You can click the Preview link to take a look at your changes.
 
 [![Telegram @dupley_maxim_1999](https://img.shields.io/badge/Telegram-dupley__maxim__1999-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dupley_maxim_1999)
 
-[![MTS](https://img.shields.io/badge/MTS-+7%20915%20048-02-49-00A14B?style=for-the-badge&logo=mts&logoColor=white)](tel:+79150480249)
+[![MTS](https://img.shields.io/badge/MTS-+7%20915%20048--02--49-E31E24?style=for-the-badge)](tel:+79150480249)
 
-[![Tele2](https://img.shields.io/badge/Tele2-+7%20901%20706-51-76-E31E24?style=for-the-badge&logo=tele2&logoColor=white)](tel:+79017065176)
+[![Tele2](https://img.shields.io/badge/Tele2-+7%20901%20706--51--76-000000?style=for-the-badge&logoColor=white)](tel:+79017065176)
 
 [![Email](https://img.shields.io/badge/Email-maksimqwe42%40mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maksimqwe42@mail.ru)
 
-🧑‍💻 Thank's for watching (^-^")~
+🧑‍💻 **Thank's for watching (^-^")~**
 
-Администраторы Codeforces блокируют аккаунты русско-язычных пользователей (рассисты)
+`Администраторы Codeforces блокируют аккаунты русско-язычных пользователей (рассисты)`
+
 [![Codeforces Profile](https://img.shields.io/badge/Codeforces-Profile-000000?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/QuadD4rv1n7)
 
 # Иконки проектов:
