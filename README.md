@@ -110,7 +110,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=QuadDarv1ne&theme=discord_old_blurple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## ![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white) TODO: [ Полезные ссылки ]
+## ![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white) Полезные ссылки:
 - 1️⃣ ⌨️ [Readme Typing SVG](https://readme-typing-svg.herokuapp.com/demo/)
 - 2️⃣ [Emojipedia](https://emojipedia.org/)
 - 3️⃣ [Stack Overflow на русском](https://ru.stackoverflow.com/)
