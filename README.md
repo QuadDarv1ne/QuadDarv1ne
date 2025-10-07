@@ -70,7 +70,6 @@ You can click the Preview link to take a look at your changes.
 <img align="justify" alt="Saas" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
 
 [<img align="justify" alt="Swift" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png">][Swift]
-[<img align="justify" alt="Terminal" width="46px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png">][Terminal]
 [<img align="justify" width="46px" alt="Ubuntu" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png">][Ubuntu]
 [<img align="justify" width="46px" alt="Unity" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png">][Unity]
 [<img align="justify" width="46px" alt="UnrealEngine" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png">][UnrealEngine]
