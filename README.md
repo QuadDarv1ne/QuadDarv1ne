@@ -137,6 +137,10 @@ You can click the Preview link to take a look at your changes.
 
 [![Codeforces Profile](https://img.shields.io/badge/Codeforces-Profile-000000?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/QuadD4rv1n7)
 
+<img width="1119" height="454" alt="image" src="https://github.com/user-attachments/assets/e2c61b00-6c4e-451e-b8b9-86747cd8bd21" />
+<img width="1120" height="122" alt="image" src="https://github.com/user-attachments/assets/aadf4d65-ecf5-45bc-b07d-a3f5b486da44" />
+
+
 # Иконки проектов:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
