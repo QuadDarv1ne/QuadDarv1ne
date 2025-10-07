@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 
 ![востребованные_навыки](https://github.com/user-attachments/assets/0cde39a4-bb10-477b-8387-4b7d96df2ad4)
 
-<img align="" alt="Repository" width="46px" src="https://user-images.githubusercontent.com/51045274/214687375-ed47c2ba-5236-49a7-8363-e32ae447e684.png"> Supported Programming Languages
+<img align="" alt="Repository" width="46px" src="https://user-images.githubusercontent.com/51045274/214687375-ed47c2ba-5236-49a7-8363-e32ae447e684.png"> **Supported Programming Languages more:**
 <!--- [<img align="left" alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/...?style=social">][youtube] --->
 [<img align="justify" alt="Flaticon" width="46px" src="https://cdn-icons-png.flaticon.com/512/6133/6133432.png">][flaticon]
 [<img align="justify" alt="Chrome" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png">][chrome]
@@ -46,7 +46,6 @@ You can click the Preview link to take a look at your changes.
 [<img align="justify" alt="Windows" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png">][windows]
 [<img align="justify" alt="C" width="46px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png">][C]
 [<img align="justify" alt="CSS" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">][CSS]
-
 [<img align="justify" alt="ESLint" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">][ESLint]
 [<img align="justify" alt="Ethereum" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png">][Ethereum]
 [<img align="" alt="Firebase" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">][Firebase]
@@ -60,7 +59,6 @@ You can click the Preview link to take a look at your changes.
 [<img align="justify" alt="React Native" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png">][React Native]
 [<img align="justify" alt="JupyterNotebook" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">][JupyterNotebook]
 <img align="justify" alt="Saas" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
-
 [<img align="justify" alt="Swift" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png">][Swift]
 [<img align="justify" width="46px" alt="Ubuntu" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png">][Ubuntu]
 [<img align="justify" width="46px" alt="Unity" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png">][Unity]
