@@ -44,8 +44,6 @@ You can click the Preview link to take a look at your changes.
 [<img align="justify" alt="Python" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">][python]
 [<img align="justify" alt="Windows" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png">][windows]
 [<img align="justify" alt="Android" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">][android]
-[<img align="justify" alt="AndroidSDK" width="46px" src="https://user-images.githubusercontent.com/51045274/214685681-00b784ad-174f-418e-906d-fb2e21a4aac1.png">][androidSDK]
-[<img align="justify" alt="Atom" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png">][Atom]
 [<img align="justify" alt="C" width="46px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png">][C]
 [<img align="justify" alt="C#" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">][C#]
 [<img align="justify" alt="CSS" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">][CSS]
@@ -53,7 +51,6 @@ You can click the Preview link to take a look at your changes.
 [<img align="justify" alt=".NET" width="46px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png">][.NET]
 [<img align="justify" alt="ESLint" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">][ESLint]
 [<img align="justify" alt="Ethereum" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png">][Ethereum]
-[<img align="" alt="Firefox" width="46px" src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png">][Firefox]
 [<img align="" alt="Firebase" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">][Firebase]
 [<img align="left" alt="Git" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">][Git]
 [<img align="left" alt="HTML5" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">][HTML5]
@@ -70,14 +67,11 @@ You can click the Preview link to take a look at your changes.
 [<img align="justify" alt="Objective-C" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png">][Objective-C]
 [<img align="justify" alt="PHP" width="46px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png">][PHP]
 [<img align="justify" alt="React Native" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png">][React Native]
-[<img align="justify" alt="ReactiveUI" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/reactiveui/reactiveui.png">][ReactiveUI]
 [<img align="justify" alt="JupyterNotebook" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">][JupyterNotebook]
 <img align="justify" alt="Saas" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
 
 [<img align="justify" alt="Swift" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png">][Swift]
-[<img align="justify" alt="Telegram" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png">][Telegram]
 [<img align="justify" alt="Terminal" width="46px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png">][Terminal]
-[<img align="justify" alt="Twitter" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png">][Twitter]
 [<img align="justify" width="46px" alt="Ubuntu" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png">][Ubuntu]
 [<img align="justify" width="46px" alt="Unity" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png">][Unity]
 [<img align="justify" width="46px" alt="UnrealEngine" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png">][UnrealEngine]
@@ -99,18 +93,14 @@ You can click the Preview link to take a look at your changes.
 [chrome]: https://www.google.com/intl/ru_ru/chrome/
 [boostrap]: https://getbootstrap.com/
 [javascript]: https://learn.javascript.ru/
-[android]: https://www.android.com/intl/ru_ru/
-[androidSDK]: https://developer.android.com/studio
 [flaticon]: https://www.flaticon.com/ru/
 [ESLint]: https://eslint.org/
 [Ethereum]: https://ethereum.org/en/
-[Firefox]: https://www.mozilla.org/ru/
 [Firebase]: https://firebase.google.com/
 [Git]: https://git-scm.com/
 [HTML5]: http://htmlbook.ru/html5
 [jQuery]: https://jquery.com/
 [.NET]: https://dotnet.microsoft.com/en-us/
-[Atom]: https://atom.io/ 
 [CSS]: https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics
 [C]: https://ru.wikipedia.org/wiki/%D0%A1%D0%B8_(%D1%8F%D0%B7%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F) 
 [C#]: https://docs.microsoft.com/ru-ru/dotnet/csharp/
@@ -122,8 +112,6 @@ You can click the Preview link to take a look at your changes.
 [WebPack]: https://webpack.js.org/
 [Wordpress]: https://ru.wordpress.org/
 [Swift]: https://www.apple.com/ru/swift/
-[Telegram]: https://web.telegram.org/z/
-[Terminal]: https://www.microsoft.com/ru-ru/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab
 [JupyterNotebook]: https://jupyter.org/
 [Kotlin]: https://kotlinlang.org/
 [Kubernetas]: https://kubernetes.io/ru/docs/concepts/overview/what-is-kubernetes/
@@ -135,7 +123,6 @@ You can click the Preview link to take a look at your changes.
 [Objective-C]: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
 [PHP]: https://www.php.net/
 [React Native]: https://reactnative.dev/
-[ReactiveUI]: https://www.reactiveui.net/
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=QuadDarv1ne)](https://github.com/ryo-ma/github-profile-trophy)
 
