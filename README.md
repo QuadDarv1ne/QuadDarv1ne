@@ -157,19 +157,19 @@ You can click the Preview link to take a look at your changes.
 
 ## 📫 How to reach for me:
 
-[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://freelance.ru/quadd4rv1n7)
-
-[![Telegram @quadd4rv1n7](https://img.shields.io/badge/Telegram-quadd4rv1n7-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/quadd4rv1n7)
-
-[![Telegram @dupley_maxim_1999](https://img.shields.io/badge/Telegram-dupley__maxim__1999-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dupley_maxim_1999)
-
-[![MTS](https://img.shields.io/badge/MTS-+7%20915%20048--02--49-E31E24?style=for-the-badge)](tel:+79150480249)
-
-[![Tele2](https://img.shields.io/badge/Tele2-+7%20901%20706--51--76-000000?style=for-the-badge&logoColor=white)](tel:+79017065176)
-
-[![Email](https://img.shields.io/badge/Email-maksimqwe42%40mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maksimqwe42@mail.ru)
-
-🧑‍💻 **Thank's for watching (^-^")~**
+> [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://freelance.ru/quadd4rv1n7)
+> 
+> [![Telegram @quadd4rv1n7](https://img.shields.io/badge/Telegram-quadd4rv1n7-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/quadd4rv1n7)
+> 
+> [![Telegram @dupley_maxim_1999](https://img.shields.io/badge/Telegram-dupley__maxim__1999-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dupley_maxim_1999)
+> 
+> [![MTS](https://img.shields.io/badge/MTS-+7%20915%20048--02--49-E31E24?style=for-the-badge)](tel:+79150480249)
+> 
+> [![Tele2](https://img.shields.io/badge/Tele2-+7%20901%20706--51--76-000000?style=for-the-badge&logoColor=white)](tel:+79017065176)
+> 
+> [![Email](https://img.shields.io/badge/Email-maksimqwe42%40mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maksimqwe42@mail.ru)
+>
+> 🧑‍💻 **Thank's for watching (^-^")~**
 
 `Администраторы Codeforces блокируют аккаунты русско-язычных пользователей (рассисты)`
 
@@ -183,7 +183,6 @@ You can click the Preview link to take a look at your changes.
 ![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 # Reposytoryes:
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=QuadDarv1ne&repo=sfml-vscode)](https://github.com/QuadDarv1ne/sfml-vscode)
