@@ -11,18 +11,21 @@
 
 # [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=QuadDarv1ne)](https://github.com/anuraghazra/github-readme-stats)
 
-- 💻 I'm DevOps Engineer & UX/UI Designer & Senior Lecture
-- 👀 I’m interested in: Python, C++, C#, JS, Unity, React-Native, Node.js 📖
-- 🌱 I’m currently learning: Unity, C++ and more
-- 💞️ I’m looking to collaborate on #MaximDupley #quadd4rv1n7 #hut_programmer_07 #maestro7it
+> 💻 I'm `DevOps Engineer` & `UX/UI Designer` & `Senior Lecture`
+> 
+> 👀 **I’m interested in:** `Python`, `C++`, `C#`, `JS`, `Unity`, `React-Native`, `Node.js`
+> 
+> 🌱 **I’m currently learning:** `Unity`, `C++` and `more`
+> 
+> 💞️ I’m looking to collaborate on `#MaximDupley`, `#quadd4rv1n7`, `#hut_programmer_07`, `#maestro7it`
 
 ## 👨‍🎓 Education
 
-- **MGIMO College of the MFA of Russia** (Odintsovo, Russia)  
-  - **Specialization**: Software Technician (Vocational Education)  
+**MGIMO College of the MFA of Russia** (Odintsovo, Russia)  
+  - **Specialization**: Software Technician (Vocational Education)
   - **Graduation Year**: 2019
 
-- **National Research University "MPEI"** (Moscow, Russia)  
+**National Research University "MPEI"** (Moscow, Russia)  
   - **Degree**: Bachelor of 09.02.03 Informatics and Computer Science
   - **Graduation Year**: 2024
 
