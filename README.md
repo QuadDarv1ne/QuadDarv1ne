@@ -29,12 +29,12 @@
   - **Degree**: Bachelor of 09.02.03 Informatics and Computer Science
   - **Graduation Year**: 2024
 
-**Человек, которого Бог взял под своё крыло**
+> **Человек, которого Бог взял под своё крыло**
 
-![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) 
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://freelance.ru/quadd4rv1n7)
+[![Telegram @quadd4rv1n7](https://img.shields.io/badge/Telegram-quadd4rv1n7-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/quadd4rv1n7)
+[![Telegram @dupley_maxim_1999](https://img.shields.io/badge/Telegram-dupley__maxim__1999-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dupley_maxim_1999)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+79150480249-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/79150480249)
 
 <!---
 QuadDarv1ne/QuadDarv1ne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
