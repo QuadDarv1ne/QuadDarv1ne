@@ -156,11 +156,6 @@ You can click the Preview link to take a look at your changes.
 - 5️⃣ [Издание о разработке и обо всём, что с ней связано](https://tproger.ru/)
 
 ## 📫 How to reach for me:
-* 📨 maksimqwe42@mail.ru
-* :gem: Telegram: @quadd4rv1n7
-* 📱+7-915-048-02-49
-* 📱+7-901-706-51-76
-* 
 
 [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://freelance.ru/quadd4rv1n7)
 
