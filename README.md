@@ -36,6 +36,8 @@ QuadDarv1ne/QuadDarv1ne is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
+![востребованные_навыки](https://github.com/user-attachments/assets/0cde39a4-bb10-477b-8387-4b7d96df2ad4)
+
 <img align="" alt="Repository" width="46px" src="https://user-images.githubusercontent.com/51045274/214687375-ed47c2ba-5236-49a7-8363-e32ae447e684.png"> Supported Programming Languages
 <!--- [<img align="left" alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/...?style=social">][youtube] --->
 [<img align="justify" alt="Flaticon" width="46px" src="https://cdn-icons-png.flaticon.com/512/6133/6133432.png">][flaticon]
@@ -76,8 +78,6 @@ You can click the Preview link to take a look at your changes.
 [<img align="justify" width="46px" alt="Vue.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">][Vue.js]
 [<img align="justify" width="46px" alt="WebPack" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png">][WebPack]
 [<img align="justify" width="46px" alt="Wordpress" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png">][Wordpress]
-
-![востребованные_навыки](https://github.com/user-attachments/assets/0cde39a4-bb10-477b-8387-4b7d96df2ad4)
 
 [twitter]: https://twitter.com/maksimdupley
 [youtube]: https://www.youtube.com/channel/UCX9nGW7TMpMMYR9TND7JADA?sub_confirmation=1
