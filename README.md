@@ -1,17 +1,16 @@
 <h1 align="center">Hello there, I'm <a href="" target="_blank">Maxim Dupley</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">DevOps Engineer & UX/UI Designer, Informatics and Computer Science Teacher (BMSTU) and Innopolis University</h3>
+<h3 align="center">DevOps Engineer & UX/UI Designer & Senior Lecture, Informatics and Computer Science Teacher (BMSTU) and Innopolis University</h3>
 
 <!-- Пример кода-->
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&multiline=true&width=513&lines=DevOps+Engineer+%26+Computer+Science+Student)](https://git.io/typing-svg)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--7605--539X-green?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-7605-539X)
+
 # [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=QuadDarv1ne)](https://github.com/anuraghazra/github-readme-stats)
 
-- 💻 I'm DevOps Engineer & UX/UI Designer & IT Teacher
-- 👀 I’m interested in: Python, C++, Unity, React-Native, Node.js ... Analytics 📖
+- 💻 I'm DevOps Engineer & UX/UI Designer & Senior Lecture
+- 👀 I’m interested in: Python, C++, C#, JS, Unity, React-Native, Node.js 📖
 - 🌱 I’m currently learning: Unity, C++ and more
-- 💞️ I’m looking to collaborate on #MaximDupley #quadd4rv1n7 #hut_programmer_07 #MD
-
-**ORCID:** https://orcid.org/0009-0007-7605-539X
+- 💞️ I’m looking to collaborate on #MaximDupley #quadd4rv1n7 #hut_programmer_07 #maestro7it
 
 ## 👨‍🎓 Education
 
