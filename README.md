@@ -45,7 +45,6 @@ You can click the Preview link to take a look at your changes.
 [<img align="justify" alt="Boostrap" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">][boostrap]
 [<img align="justify" alt="Windows" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png">][windows]
 [<img align="justify" alt="C" width="46px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png">][C]
-[<img align="justify" alt="C#" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">][C#]
 [<img align="justify" alt="CSS" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">][CSS]
 
 [<img align="justify" alt="ESLint" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">][ESLint]
@@ -53,7 +52,6 @@ You can click the Preview link to take a look at your changes.
 [<img align="" alt="Firebase" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">][Firebase]
 [<img align="left" alt="HTML5" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">][HTML5]
 [<img align="" alt="jQuery" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png">][jQuery]
-<img align="left" alt="Kubernetes" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png">
 
 [<img align="justify" alt="Node.JS" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">][Node.JS]
 [<img align="justify" alt="npm" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png">][npm]
@@ -89,7 +87,6 @@ You can click the Preview link to take a look at your changes.
 [jQuery]: https://jquery.com/
 [CSS]: https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics
 [C]: https://ru.wikipedia.org/wiki/%D0%A1%D0%B8_(%D1%8F%D0%B7%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F) 
-[C#]: https://docs.microsoft.com/ru-ru/dotnet/csharp/
 [VK]: https://vk.com/maestro7it
 [Ubuntu]: https://ubuntu.com/
 [Unity]: https://unity.com/ru
@@ -99,7 +96,6 @@ You can click the Preview link to take a look at your changes.
 [Wordpress]: https://ru.wordpress.org/
 [Swift]: https://www.apple.com/ru/swift/
 [JupyterNotebook]: https://jupyter.org/
-[Kubernetas]: https://kubernetes.io/ru/docs/concepts/overview/what-is-kubernetes/
 [Node.JS]: https://www.apple.com/ru/macos/monterey/
 [npm]: https://www.apple.com/ru/macos/monterey/
 [MySQL]: https://www.mysql.com/
