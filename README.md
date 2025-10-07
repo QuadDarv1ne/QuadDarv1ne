@@ -1,6 +1,7 @@
 <h1 align="center">Hello there, I'm <a href="" target="_blank">Maxim Dupley</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">DevOps Engineer & UX/UI Designer & Senior Lecture, Informatics and Computer Science Teacher (BMSTU) and Innopolis University</h3>
+<h3 align="center">DevOps Engineer & UX/UI Designer & Senior Lecture</h3>
+<h4>Informatics and Computer Science (BMSTU), Innopolis University and Institute of International Economic Relations (IMES)</h4>
 
 <!-- Пример кода-->
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--7605--539X-green?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-7605-539X)
