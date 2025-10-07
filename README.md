@@ -31,11 +31,6 @@
 
 > **Человек, которого Бог взял под своё крыло**
 
-[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://freelance.ru/quadd4rv1n7)
-[![Telegram @quadd4rv1n7](https://img.shields.io/badge/Telegram-quadd4rv1n7-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/quadd4rv1n7)
-[![Telegram @dupley_maxim_1999](https://img.shields.io/badge/Telegram-dupley__maxim__1999-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dupley_maxim_1999)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+79150480249-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/79150480249)
-
 <!---
 QuadDarv1ne/QuadDarv1ne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -153,22 +148,36 @@ You can click the Preview link to take a look at your changes.
 
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=QuadDarv1ne&theme=discord_old_blurple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-# ![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white) TODO: [ Полезные ссылки ]
-- 1️⃣ ⌨️ Readme Typing SVG: https://readme-typing-svg.herokuapp.com/demo/
-- 2️⃣ Emojipedia: https://emojipedia.org/
-- 3️⃣ Stack Overflow на русском: https://ru.stackoverflow.com/
-- 4️⃣ Fonts Knowledge - Google Fonts: https://fonts.google.com/knowledge
-- 5️⃣ Издание о разработке и обо всём, что с ней связано: https://tproger.ru/
+## ![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white) TODO: [ Полезные ссылки ]
+- 1️⃣ ⌨️ [Readme Typing SVG](https://readme-typing-svg.herokuapp.com/demo/)
+- 2️⃣ [Emojipedia](https://emojipedia.org/)
+- 3️⃣ [Stack Overflow на русском](https://ru.stackoverflow.com/)
+- 4️⃣ [Fonts Knowledge - Google Fonts](https://fonts.google.com/knowledge)
+- 5️⃣ [Издание о разработке и обо всём, что с ней связано](https://tproger.ru/)
 
-# 📫 How to reach for me:
+## 📫 How to reach for me:
 * 📨 maksimqwe42@mail.ru
 * :gem: Telegram: @quadd4rv1n7
 * 📱+7-915-048-02-49
 * 📱+7-901-706-51-76
-* 🧑‍💻 Thank's for watching (^-^")~
+* 
 
-Администраторы CodeWars блокируют аккаунты русско-язычных пользователей (рассисты)
-[![CodeWars Profile](https://www.codewars.com/users/QuadD4rv1n7/badges/large)](https://www.codewars.com/users/QuadD4rv1n7)
+[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://freelance.ru/quadd4rv1n7)
+
+[![Telegram @quadd4rv1n7](https://img.shields.io/badge/Telegram-quadd4rv1n7-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/quadd4rv1n7)
+
+[![Telegram @dupley_maxim_1999](https://img.shields.io/badge/Telegram-dupley__maxim__1999-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dupley_maxim_1999)
+
+[![MTS](https://img.shields.io/badge/MTS-+7%20915%20048-02-49-00A14B?style=for-the-badge&logo=mts&logoColor=white)](tel:+79150480249)
+
+[![Tele2](https://img.shields.io/badge/Tele2-+7%20901%20706-51-76-E31E24?style=for-the-badge&logo=tele2&logoColor=white)](tel:+79017065176)
+
+[![Email](https://img.shields.io/badge/Email-maksimqwe42%40mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maksimqwe42@mail.ru)
+
+🧑‍💻 Thank's for watching (^-^")~
+
+Администраторы Codeforces блокируют аккаунты русско-язычных пользователей (рассисты)
+[![Codeforces Profile](https://img.shields.io/badge/Codeforces-Profile-000000?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/QuadD4rv1n7)
 
 # Иконки проектов:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
