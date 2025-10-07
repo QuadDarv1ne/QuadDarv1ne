@@ -49,19 +49,14 @@ You can click the Preview link to take a look at your changes.
 [<img align="justify" alt="C#" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">][C#]
 [<img align="justify" alt="CSS" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">][CSS]
 
-[<img align="justify" alt=".NET" width="46px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png">][.NET]
 [<img align="justify" alt="ESLint" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">][ESLint]
 [<img align="justify" alt="Ethereum" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png">][Ethereum]
 [<img align="" alt="Firebase" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">][Firebase]
-[<img align="left" alt="Git" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">][Git]
 [<img align="left" alt="HTML5" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">][HTML5]
-[<img align="left" alt="JavaScript" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">][JavaScript]
 [<img align="" alt="jQuery" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png">][jQuery]
 [<img align="left" alt="Kotlin" width="46px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png">][Kotlin]
 <img align="left" alt="Kubernetes" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png">
 
-[<img align="justify" alt="Linux" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">][Linux]
-[<img align="justify" alt="MacOS" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png">][MacOS]
 [<img align="justify" alt="Node.JS" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">][Node.JS]
 [<img align="justify" alt="npm" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png">][npm]
 [<img align="justify" alt="MySQL" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">][MySQL]
@@ -90,15 +85,12 @@ You can click the Preview link to take a look at your changes.
 [windows]: https://www.microsoft.com/ru-ru/windows/windows-11?r=1
 [chrome]: https://www.google.com/intl/ru_ru/chrome/
 [boostrap]: https://getbootstrap.com/
-[javascript]: https://learn.javascript.ru/
 [flaticon]: https://www.flaticon.com/ru/
 [ESLint]: https://eslint.org/
 [Ethereum]: https://ethereum.org/en/
 [Firebase]: https://firebase.google.com/
-[Git]: https://git-scm.com/
 [HTML5]: http://htmlbook.ru/html5
 [jQuery]: https://jquery.com/
-[.NET]: https://dotnet.microsoft.com/en-us/
 [CSS]: https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics
 [C]: https://ru.wikipedia.org/wiki/%D0%A1%D0%B8_(%D1%8F%D0%B7%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F) 
 [C#]: https://docs.microsoft.com/ru-ru/dotnet/csharp/
@@ -113,8 +105,6 @@ You can click the Preview link to take a look at your changes.
 [JupyterNotebook]: https://jupyter.org/
 [Kotlin]: https://kotlinlang.org/
 [Kubernetas]: https://kubernetes.io/ru/docs/concepts/overview/what-is-kubernetes/
-[Linux]: https://www.linux.org.ru/
-[MacOS]: https://www.apple.com/ru/macos/monterey/
 [Node.JS]: https://www.apple.com/ru/macos/monterey/
 [npm]: https://www.apple.com/ru/macos/monterey/
 [MySQL]: https://www.mysql.com/
