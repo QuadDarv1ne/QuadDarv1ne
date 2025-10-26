@@ -8,6 +8,7 @@
 [![CodeWars](https://img.shields.io/badge/CodeWars-2%20kyu-8A2BE2?logo=codewars&logoColor=white)](https://www.codewars.com/users/QuadD4rv1n7)
 [![LeetCode](https://img.shields.io/badge/LeetCode-quadd4rv1n7-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/quadd4rv1n7/)
 [![Stepik](https://img.shields.io/badge/Stepik-150943726-FF5722?logo=stepik&logoColor=white)](https://stepik.org/users/150943726/teach)
+![Profile Views](https://komarev.com/ghpvc/?username=QuadDarv1ne&color=blue)
 
 # [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=QuadDarv1ne)](https://github.com/anuraghazra/github-readme-stats)
 
