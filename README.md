@@ -14,8 +14,6 @@
 
 > 💻 I'm `DevOps Engineer` & `UX/UI Designer` & `Senior Lecture`
 > 
-> 👀 **I’m interested in:** `Python`, `C++`, `C#`, `JS`, `Unity`, `React-Native`, `Node.js`
-> 
 > 🌱 **I’m currently learning:** `Unity`, `C++` and `more`
 > 
 > 💞️ I’m looking to collaborate on `#MaximDupley`, `#quadd4rv1n7`, `#hut_programmer_07`, `#maestro7it`
