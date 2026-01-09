@@ -10,8 +10,8 @@
 [![Stepik](https://img.shields.io/badge/Stepik-150943726-FF5722?logo=stepik&logoColor=white)](https://stepik.org/users/150943726/teach)
 ![Profile Views](https://komarev.com/ghpvc/?username=QuadDarv1ne&color=blue)
 
-<a href = "https://discord.gg/"><img alt="Discord" src="https://img.shields.io/discord/978108215499816980?style=social&logo=discord&label=Библиотека искателя - Maestro7IT"></a>
-<a href = "https://t.me/+62AA2Ptnxj9kYWQ6"><img src="https://img.shields.io/static/v1?style=social&logo=telegram&label=❃ Хижина программиста Æ&message=chat" ></a>
+<a href = "https://discord.gg/"><img alt="Discord" src="https://img.shields.io/discord/978108215499816980?style=social&logo=discord&label=Finder_Library_Maestro7IT"></a>
+<a href = "https://t.me/+62AA2Ptnxj9kYWQ6"><img src="https://img.shields.io/static/v1?style=social&logo=telegram&label=Hut_programmer&message=channel" ></a>
 
 # [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=QuadDarv1ne)](https://github.com/anuraghazra/github-readme-stats)
 
