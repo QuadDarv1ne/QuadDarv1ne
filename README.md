@@ -10,6 +10,9 @@
 [![Stepik](https://img.shields.io/badge/Stepik-150943726-FF5722?logo=stepik&logoColor=white)](https://stepik.org/users/150943726/teach)
 ![Profile Views](https://komarev.com/ghpvc/?username=QuadDarv1ne&color=blue)
 
+<a href = "https://discord.gg/"><img alt="Discord" src="https://img.shields.io/discord/978108215499816980?style=social&logo=discord&label=echosec"></a>
+<a href = "https://t.me/+62AA2Ptnxj9kYWQ6"><img src="https://img.shields.io/static/v1?style=social&logo=telegram&label=Studio&message=chat" ></a>
+
 # [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=QuadDarv1ne)](https://github.com/anuraghazra/github-readme-stats)
 
 > 💻 I'm `DevOps Engineer` & `UX/UI Designer` & `Senior Lecture`
@@ -138,7 +141,7 @@ You can click the Preview link to take a look at your changes.
 > [![Tele2](https://img.shields.io/badge/Tele2-+7%20901%20706--51--76-000000?style=for-the-badge&logoColor=white)](tel:+79017065176)
 > 
 > [![Email](https://img.shields.io/badge/Email-maksimqwe42%40mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maksimqwe42@mail.ru)
->
+
 > 🧑‍💻 **Thank's for watching (^-^")~**
 
 `Администраторы Codeforces блокируют аккаунты русско-язычных пользователей (рассисты)`
